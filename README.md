@@ -1,1 +1,2 @@
-This repository contains a complete relational database design for a banking system developed using Oracle APEX. It includes SQL scripts for table creation, data insertion, and queries covering key banking modules such as customers, employees, accounts, loans, and transactions.
+This repository contains a complete relational database design for a banking system developed using Oracle APEX.
+It includes SQL scripts for table creation, data insertion, and queries covering key banking modules such as customers, employees, accounts, loans, and transactions.
