@@ -42,7 +42,7 @@ The project covers 16 main tables:
 
 ---
 
-## 🧪 Sample Queries
+##  Sample Queries
 
 ```sql
 -- Example 1: Find employees with specific salary and job
